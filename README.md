@@ -79,21 +79,21 @@ jieba : pip install jieba
     5. model ——存放训练的模型
 
 ## 使用
-### 推理
-命令如下，需要在infer文件中修改输入参数(还没弄使用argparse的版本)
+### 预处理
+命令如下，做的是分词还有构建词表的工作
 ~~~shell
-python test.py
+python preprocess.py
+python vocab.py
 ~~~
 ### 训练
 命令如下，还是需要该参数(默认单卡，多卡训练请修改代码，还没弄使用argparse的版本)
 ~~~shell
 python train.py
 ~~~
-### 预处理
-命令如下，做的是分词还有构建词表的工作
+### 测试
+命令如下，输出测试集中随机几对句子的测试结果
 ~~~shell
-python preprocess.py
-python vocab.py
+python test.py
 ~~~
 ### 推理
 ~~~shell
