@@ -17,41 +17,66 @@
     模型性能：BLEU分数：未进行评测
 
     推理效果：
-        EN: I am a cat.   
-        ZH: 我是个猫
+        EN: Do you think the things
+        MT: 你觉得事情会怎样吗
+        ZH: 你觉得费奇特说的那些
 
-        EN: how dare you?
-        ZH: 你怎么会
+        EN: If we don't get him to a doctor, he will die. Do you understand?
+        MT: 如果我们不把他送到医生身上，他会死的。明白吗？
+        ZH: 如果不让他看医生他会死的。明白吗？
 
-        EN: So will you stay?
-        CN: 你要留下来吗
+        EN: I've never been here before. It's okay, Whitney.
+        MT: 我以前从没来过过。好吧，惠特尼。
+        ZH: 我却没来过这里。没关系，惠特尼。
 
-        EN: Take him out first.   
-        CN: 先把他带走
+        EN: I don't know, Jack the Ripper. Oh
+        MT: 我不知道，杰克杰克。哦
+        ZH: 我不知道... 波兰版开膛手杰克。哦
 
-        EN: I have a question about this scene. Yes?    
-        CN: 我有问题关于这个地方的问题是的
+        EN: Some people force their information on you
+        MT: 一些人在你身上<unk>信息
+        ZH: 有些人在强迫你接受他们的消息
 
-        EN: Guests enjoy a complimentary Health Club & Fitness Center that includes: gym, sauna, steam room and hot tub.   
-        CN: 客人享受免费的免费的健康设施包括健身中心的健身中心包括健身中心包括游泳池和热水浴缸
+        EN: I'm not the type of person that can keep things bottled up inside
+        MT: 我不是那种能把事情<unk>的人
+        ZH: 我不是那种能藏得住话的人
 
-        EN: To get back.    
-        CN: 回到后面
+        EN: Each suite features a fully equipped kitchenette, a sitting area with a comfortable sofabed, and two bedrooms- one with a regular bed and one king bed, all         with a Serta mattress.
+        MT: 每间套房均配有一个设备齐全的小厨房，一个舒适的休息区，配有一张舒适的沙发，一间卧室配有一张普通的床和一张特大号床，所有配备了一个小厨房。
+        ZH: 每一间套房都提供了设施齐全的小厨房、带有舒适沙发床的休息区、两个卧室- 一个带有普通床，另一个带有特大床，全部配有塞塔床垫。
 
-        EN: Been playing for bigger stakes than I normally would.   
-        CN: 我通常会玩更多的<unk>
+        EN: The three-dragon glazed screen wall is built in Ming Dynasty.
+        MT: <unk><unk><unk>建于明代。
+        ZH: 寺前有三龙琉璃照壁，是大同市唯一的一座双面照壁，为明代遗物。
 
-        EN: I mean, I didn't deal with him directly.    
-        CN: 我是说我和他无关
+        EN: I know what you're thinking. - so?
+        MT: 我知道你在想什么。那又怎样？
+        ZH: 我知道你在想什么。-所以？
 
-        EN: Are there any families in your neighborhood that you don't get along with?    
-        CN: 你家里有家人吗你不和我一起去
+        EN: Come on, boomer!
+        MT: 快点，<unk>！
+        ZH: 布玛，快走！
 
-        EN: Than he wants us to have it. So they start shooting at each other.    
-        CN: 他想让我们让我们这么做所以他们就会打到对方
+        EN: And get other star power to help me.
+        MT: 去找另一个明星来帮我。
+        ZH: 我可以请其他巨星来帮我。
 
-        EN: You don't want to run the risk of losing 100 dollars.   
-        CN: 你不想再<unk>100美元的风险   
+        EN: I just reckon I'll get the money from a bank
+        MT: 我想我可以从银行里拿钱
+        ZH: 我觉得还是从银行借钱比较好
+
+        EN: And, well, I'm only being honest with myself when I say that...
+        MT: 我是说，我唯一诚实的时候我也是诚实的
+        ZH: 嗯，我只是要对我自己说实话……
+
+        EN: I've managed to find our friend.
+        MT: 我已经找到了我们的朋友。
+        ZH: 我终于找到我们的朋友了。
+        
+        EN: For the people who lacking basic digital capabilities, they may consider online public services and business transactions as a burden and let alone enjoy           the benefits that are offered by them.
+        MT: 对于缺少基本数字能力的人来说，他们可能会考虑在线服务和商业业务，并让人们更愿意享受他们的利益。
+        ZH: 对于缺乏基本数字能力的人来说，他们可能会认为在线公共服务和商业交易是一种负担，更不用说享受他们提供的好处了。
+
 
 ## 安装依赖(无版本要求)
 
